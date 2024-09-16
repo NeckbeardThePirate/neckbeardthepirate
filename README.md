@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 # All glory to The King
 ### Ezekiel 11:19
 
-🔭 Working on getting Zelek 🚀🌑\
-🌱 Learning Rust 🦀🦀🦀
+🛠️ Working on getting Zelek 🚀🌑🌟💫✨🌠⭐\
+🌱 Learning Rust 🦀🦀🦀📖📑📚📕📙🧾
