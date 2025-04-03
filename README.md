@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 🛠️ Working on getting Zelek 🚀🌑🌟💫✨🌠⭐\
 🌱 Learning Rust 🦀🦀🦀📖📑📚📕📙🧾
 ### 🗻🗻 AlpineJS 🗻🗻
-Can code without gippity
+Can code without gippity :)
