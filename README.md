@@ -6,5 +6,8 @@
 ### 🌱 🗻🗻 AlpineJS 🗻🗻 && AEMaaCS
 Intends not to get replaced by AI
 
-🏗️🏗️ https://judahhelland.com 🏗️🏗️ (Under Renovations don't judge me)
+🏗️🏗️ https://judahhelland.com 🏗️🏗️ (Under Renovations don't judge me) /n
+
 💼💼 https://www.linkedin.com/in/judah-helland/
+
+⚔️ I did some CW once upon a time https://www.codewars.com/users/C_F
