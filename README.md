@@ -6,7 +6,7 @@
 ### 🌱 🗻🗻 AlpineJS 🗻🗻 && AEMaaCS
 Intends not to get replaced by AI
 
-🏗️🏗️ https://judahhelland.com 🏗️🏗️ (Under Renovations don't judge me) /n
+🏗️🏗️ https://judahhelland.com 🏗️🏗️ (Under Renovations don't judge me)
 
 💼💼 https://www.linkedin.com/in/judah-helland/
 
