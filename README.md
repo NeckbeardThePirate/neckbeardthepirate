@@ -1,7 +1,8 @@
 # All glory to The King
 ### Ezekiel 11:19
 
-🛠️ https://teamsender.com <-- a tool for bulk sms messaging
+🛠️ https://teamsender.com <-- a tool for bulk sms messaging  
+
 🛠️ https://judahhelland.com/light-news <-- a tool for fellow dumb phone users to get news via SMS
  
 ### 🌱 🗻🗻 AlpineJS 🗻🗻 && AEMaaCS
@@ -13,8 +14,12 @@ See work examples here --> https://judahhelland.com
 
 
 Im a tinkering obssessed developer with more ideas than time. I love writing code, and building things to help people save time, be more informed, and live better lives.
-Checkout:
- https://judahhelland.com
- https://judahhelland.com/light-news
+
+Checkout:  
+
+ https://judahhelland.com  
+ 
+ https://judahhelland.com/light-news  
+ 
  https://teamsender.com
  
