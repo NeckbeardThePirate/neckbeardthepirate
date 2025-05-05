@@ -3,7 +3,7 @@
 
 🛠️ https://teamsender.com <-- a tool for bulk sms messaging  
 
-🛠️ https://judahhelland.com/light-news <-- a tool for fellow dumb phone users to get news via SMS
+🛠️ https://lightnews.judahhelland.com <-- a tool for fellow dumb phone users to get news via SMS
  
 ### 🌱 🗻🗻 AlpineJS 🗻🗻 && AEMaaCS
 Intends not to get replaced by AI
@@ -19,7 +19,7 @@ Checkout:
 
  https://judahhelland.com  
  
- https://judahhelland.com/light-news  
+ https://light-news.judahhelland.com  
  
  https://teamsender.com
  
