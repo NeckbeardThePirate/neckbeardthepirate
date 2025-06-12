@@ -1,6 +1,9 @@
 # All glory to The King
 ### Ezekiel 11:19
 
+### Site Statuses: https://neckbeardthepirate.github.io/jaech-upptime
+
+
 🛠️ https://teamsender.com <-- a tool for bulk sms messaging  
 
 🔬 https://labs.hellandcloud.com <-- high functioning tools for fellow dumb phone users
