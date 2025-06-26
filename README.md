@@ -6,9 +6,8 @@
 
 🛠️ https://teamsender.com <-- a tool for bulk sms messaging  
 
-🔬 https://labs.hellandcloud.com <-- high functioning tools for fellow dumb phone users
- 
-### 🌱 🗻🗻 AlpineJS 🗻🗻 && AEMaaCS
+🔬 https://thelightlabs.dev <-- high functioning tools for fellow dumb phone users
+
 Intends not to get replaced by AI
 
 See work examples here --> https://judahhelland.com
@@ -22,7 +21,7 @@ Checkout:
 
  https://judahhelland.com  
  
- https://labs.hellandcloud.com  
+ https://thelightlabs.dev  
  
  https://teamsender.com
  
