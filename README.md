@@ -11,12 +11,12 @@
 
 Intends not to get replaced by AI
 
-See work examples here --> https://judahhelland.com
+https://judahhelland.com <-- See work examples here 
 
 💼💼 https://www.linkedin.com/in/judah-helland/
 
 
-Im a tinkering obssessed developer with more ideas than time. I love writing code, and building things to help people save time, be more informed, and live better lives.
+Im a tinkering lover with more ideas than time. I love writing code, and building things to help people save time, be more informed, and live better lives.
 
 Checkout:  
 
@@ -24,5 +24,5 @@ Checkout:
  
  https://thelightlabs.dev  
  
- https://teamsender.com
+ https://microtunnel.app
  
