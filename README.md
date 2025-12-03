@@ -7,7 +7,7 @@
 
 🛠️ https://teamsender.com <-- a tool for bulk sms messaging  
 
-🔬 https://thelightlabs.dev <-- high functioning tools for fellow dumb phone users
+
 
 Intends not to get replaced by AI
 
