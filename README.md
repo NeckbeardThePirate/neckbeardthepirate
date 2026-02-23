@@ -18,11 +18,3 @@ https://judahhelland.com <-- See work examples here
 
 Im a tinkering lover with more ideas than time. I love writing code, and building things to help people save time, be more informed, and live better lives.
 
-Checkout:  
-
- https://judahhelland.com  
- 
- https://thelightlabs.dev  
- 
- https://microtunnel.app
- 
